@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -25,7 +26,7 @@
           $url = "https://picasaweb.google.com/data/feed/api/user/110796482656383145864";
         $data = simplexml_load_file($url);
         print "</select>";
-      					print '<button id="b1">ƒAƒ‹ƒoƒ€‚ğØ‚è‘Ö‚¦</button>';
+      					print '<button id="b1">ã‚¢ãƒ«ãƒãƒ ã‚’åˆ‡ã‚Šæ›¿ãˆ</button>';
       					print "<br /><br />";
       					print '<iframe id="ifr" scrolling="no" frameborder="0" width="945" height="710" src="album.html?albumurl='.$data->entry[0]->link[0]->attributes()->href.'"></iframe>';
       					?>
