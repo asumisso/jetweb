@@ -19,7 +19,6 @@ body {
     }
 }
 
-<<<<<<< HEAD
 .beniya{
   margin-top: 30px;
   margin-bottom: 30px;
@@ -29,18 +28,6 @@ body {
   padding-right: 10px;
   background-color: rgba( 255, 255, 255, 0.7 );
   border: dotted 2px black;
-
-=======
-.beniya {
-    margin-top: 30px;
-    margin-bottom: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-    background-color: rgba( 255, 255, 255, 0.7);
-    border: dotted 2px black;
->>>>>>> 0519b158a3329d21f8497abf1861ad532855561f
 }
 
 .menu {
