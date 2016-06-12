@@ -20,6 +20,11 @@
   <body>
     <div class="container">
       <div class="row">
+        <div>
+          $url = "https://picasaweb.google.com/data/feed/api/user/110796482656383145864";
+        $data = simplexml_load_file($url);
+        </div>
+
       </div>
     </div>
 
