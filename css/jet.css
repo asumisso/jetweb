@@ -60,3 +60,31 @@ h3:after{
     border-bottom: 0;
     content: "";
 }
+
+.bus:before {
+    content: url(../images/bus.png);
+    margin: 10px;
+    position: relative;
+    top: 8px;
+}
+
+.bus:after {
+    content: url(../images/bus.png);
+    margin: 10px;
+    position: relative;
+    top: 8px;
+}
+
+.train:before {
+    content: url(../images/train.png);
+    margin: 10px;
+    position: relative;
+    top: 8px;
+}
+
+.train:after {
+    content: url(../images/train.png);
+    margin: 10px;
+    position: relative;
+    top: 8px;
+}
