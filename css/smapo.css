@@ -1,0 +1,24 @@
+@media only screen and (max-width: 767px) {
+    /*背景*/
+    .intro {
+        background-image: url(../images/top.png);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .button {
+        width: 100px;
+        height: 54px;
+        text-align: center;
+        text-decoration: none;
+        line-height: 54px;
+        outline: none;
+    }
+    .nav-height {
+        width: 50px;
+    }
+
+    .navbar-brand {
+    margin-right: 0px;
+}
+}
